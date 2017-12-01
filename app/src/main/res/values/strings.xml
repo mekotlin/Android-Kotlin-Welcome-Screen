@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Welcome Screen</string>
+    <string name="skip">SKIP</string>
+    <string name="start">START</string>
+    <string name="next">NEXT</string>
+    <string name="start_again">START AGAIN</string>
+    <string name="thank_you">THANK YOU</string>
+</resources>
